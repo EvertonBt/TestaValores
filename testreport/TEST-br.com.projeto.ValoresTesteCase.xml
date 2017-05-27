@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="unipe-VirtualBox" name="br.com.projeto.ValoresTesteCase" skipped="0" tests="6" time="0.088" timestamp="2017-05-27T12:53:18">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="/opt/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/templates//" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="os.name" value="Linux" />
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes" />
+    <property name="sun.desktop" value="gnome" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327" />
+    <property name="jar.dir" value="/home/unipe/Área de Trabalho/TestaValores/dist" />
+    <property name="java.runtime.version" value="1.8.0_121-8u121-b13-0ubuntu1.16.04.2-b13" />
+    <property name="user.name" value="unipe" />
+    <property name="build.dir" value="/home/unipe/Área de Trabalho/TestaValores/bin" />
+    <property name="user.language" value="pt" />
+    <property name="test.report.dir" value="/home/unipe/Área de Trabalho/TestaValores/testreport" />
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64" />
+    <property name="ant.project.default-target" value="compile" />
+    <property name="doc.dir" value="/home/unipe/Área de Trabalho/TestaValores/doc" />
+    <property name="ant.project.name" value="TestaValores" />
+    <property name="java.version" value="1.8.0_121" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed" />
+    <property name="sun.cpu.isalist" value="" />
+    <property name="sun.jnu.encoding" value="UTF-8" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="/" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="BR" />
+    <property name="java.home" value="/usr/lib/jvm/java-8-openjdk-amd64/jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="main-class" value="br.com.projeto.Principal" />
+    <property name="ant.file" value="/home/unipe/Área de Trabalho/TestaValores/build.xml" />
+    <property name="os.version" value="4.8.0-36-generic" />
+    <property name="path.separator" value=":" />
+    <property name="java.vm.version" value="25.121-b13" />
+    <property name="ant.library.dir" value="/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib" />
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit" />
+    <property name="eclipse.pdebuild.scripts" value="/opt/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/scripts//" />
+    <property name="user.home" value="/home/unipe" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.file.TestaValores" value="/home/unipe/Área de Trabalho/TestaValores/build.xml" />
+    <property name="test.dir" value="/home/unipe/Área de Trabalho/TestaValores/src" />
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="ant.file.type.TestaValores" value="file" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner br.com.projeto.ValoresTesteCase skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/unipe/Área de Trabalho/TestaValores/testreport/TEST-br.com.projeto.ValoresTesteCase.xml crashfile=/home/unipe/Área de Trabalho/TestaValores/junitvmwatcher3926415980065245991.properties propsfile=/home/unipe/Área de Trabalho/TestaValores/junit3569770542511753888.properties" />
+    <property name="java.class.path" value="/home/unipe/Área de Trabalho/TestaValores/lib/junit-4.12.jar:/home/unipe/Área de Trabalho/TestaValores/lib/hamcrest-core-1.3.jar:/home/unipe/Área de Trabalho/TestaValores/bin:/home/unipe/Área de Trabalho/TestaValores/bin/tests:/opt/eclipse/plugins/org.junit_4.12.0.v201504281640/junit.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-launcher.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-junit.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-junit4.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="unknown" />
+    <property name="eclipse.pdebuild.home" value="/opt/eclipse/plugins/org.eclipse.pde.build_3.9.200.v20160204-0642/.//" />
+    <property name="java.io.tmpdir" value="/tmp" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext" />
+    <property name="user.dir" value="/home/unipe/Área de Trabalho/TestaValores" />
+    <property name="build.test.dir" value="/home/unipe/Área de Trabalho/TestaValores/bin/tests" />
+    <property name="line.separator" value="&#xa;" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="basedir" value="/home/unipe/Área de Trabalho/TestaValores" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="source.dir" value="/home/unipe/Área de Trabalho/TestaValores/src" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="jar" />
+  </properties>
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testDel" time="0.003" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testLower" time="0.004" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testMean" time="0.0" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testSize" time="0.0" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testGreater" time="0.0" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testInserir" time="0.001" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
