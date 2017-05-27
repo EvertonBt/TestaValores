@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="unipe-VirtualBox" name="br.com.projeto.ValoresTesteCase" skipped="0" tests="6" time="0.088" timestamp="2017-05-27T12:53:18">
+<testsuite errors="0" failures="0" hostname="unipe-VirtualBox" name="br.com.projeto.ValoresTesteCase" skipped="0" tests="6" time="0.426" timestamp="2017-05-27T17:38:25">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
@@ -52,7 +52,7 @@
     <property name="ant.file.type.TestaValores" value="file" />
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner br.com.projeto.ValoresTesteCase skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/unipe/Área de Trabalho/TestaValores/testreport/TEST-br.com.projeto.ValoresTesteCase.xml crashfile=/home/unipe/Área de Trabalho/TestaValores/junitvmwatcher3926415980065245991.properties propsfile=/home/unipe/Área de Trabalho/TestaValores/junit3569770542511753888.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner br.com.projeto.ValoresTesteCase skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=true formatter=org.apache.tools.ant.taskdefs.optional.junit.SummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,/home/unipe/Área de Trabalho/TestaValores/testreport/TEST-br.com.projeto.ValoresTesteCase.xml crashfile=/home/unipe/Área de Trabalho/TestaValores/junitvmwatcher7569936298303416636.properties propsfile=/home/unipe/Área de Trabalho/TestaValores/junit6612984714296159712.properties" />
     <property name="java.class.path" value="/home/unipe/Área de Trabalho/TestaValores/lib/junit-4.12.jar:/home/unipe/Área de Trabalho/TestaValores/lib/hamcrest-core-1.3.jar:/home/unipe/Área de Trabalho/TestaValores/bin:/home/unipe/Área de Trabalho/TestaValores/bin/tests:/opt/eclipse/plugins/org.junit_4.12.0.v201504281640/junit.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-launcher.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-junit.jar:/opt/eclipse/plugins/org.apache.ant_1.9.6.v201510161327/lib/ant-junit4.jar" />
     <property name="ant.version" value="Apache Ant(TM) version 1.9.6 compiled on June 29 2015" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
@@ -77,12 +77,12 @@
     <property name="java.specification.version" value="1.8" />
     <property name="ant.project.invoked-targets" value="jar" />
   </properties>
-  <testcase classname="br.com.projeto.ValoresTesteCase" name="testDel" time="0.003" />
-  <testcase classname="br.com.projeto.ValoresTesteCase" name="testLower" time="0.004" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testDel" time="0.015" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testLower" time="0.013" />
   <testcase classname="br.com.projeto.ValoresTesteCase" name="testMean" time="0.0" />
-  <testcase classname="br.com.projeto.ValoresTesteCase" name="testSize" time="0.0" />
-  <testcase classname="br.com.projeto.ValoresTesteCase" name="testGreater" time="0.0" />
-  <testcase classname="br.com.projeto.ValoresTesteCase" name="testInserir" time="0.001" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testSize" time="0.001" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testGreater" time="0.001" />
+  <testcase classname="br.com.projeto.ValoresTesteCase" name="testInserir" time="0.003" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
